@@ -4,7 +4,7 @@
 
 Clone this Repo.
 ```bash
-  git clone https://github.com/Nisar-Ahamed-M/TNSDC-GENAI.git
+  git clone https://github.com/mariarija/Gen_Ai.git
 ```
 
 Change Directory
